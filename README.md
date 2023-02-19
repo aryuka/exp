@@ -15,7 +15,7 @@ song!
 EXP, as well as Goldbox, Jummbox, and Beepbox which it's based on, are free projects. If you ever feel so inclined, please support the original creator, [John Nesky](http://www.johnnesky.com/), via
 [PayPal](https://www.paypal.com/cgi-bin/webscr?cmd=_donations&business=QZJTX9GRYEV9N&currency_code=USD)!
 JummBox is developed by [Jummbus](http://www.twitter.com/jummbus).
-GoldBox is developed by [Aurum System0(https://twitter.com/aurysystem).
+GoldBox is developed by [Aurum System](https://twitter.com/aurysystem).
 
 ## Compiling
 
